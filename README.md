@@ -538,8 +538,3 @@ sudo tail -f /var/log/zabbix/zabbix_server.log
 
 ---
 
-# 👨‍💻 Project Type
-
-**Hands-on Linux Monitoring & System Administration Lab**
-
-This project was created for learning and demonstrating practical experience with Linux system administration, monitoring, networking, services, and database configuration.
